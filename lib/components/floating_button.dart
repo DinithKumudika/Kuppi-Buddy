@@ -9,7 +9,8 @@ class FloatingButton extends StatelessWidget {
   final Color iconColor;
   final Color backgroundColor;
 
-  FloatingButton({
+  const FloatingButton({
+    super.key,
     required this.tooltipText,
     required this.iconData,
     required this.iconColor,
