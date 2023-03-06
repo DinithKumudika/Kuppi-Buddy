@@ -6,7 +6,7 @@ Features
 - students can request for kuppi sessions
 - admins can review kuppi sessions and aprove them
 - admins can add new kuppi sessions along with any resourses (ex-: lecture slides, notes, youtube links etc..)
-- admin can add new subjects
+- admins can add new subjects
 - event calendar with upcoming kuppi session details
 
 ## Getting Started
