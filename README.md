@@ -1,6 +1,6 @@
 # kuppi_buddy
 
-A skeleton flutter project made for KuppiBuddy
+KuppiBuddy is mobile to manage and handle kuppi sessions for university students. This Project is initially made for MadHack 2023 mobile application hackathon
 
 Features
 - students can request for kuppi sessions
