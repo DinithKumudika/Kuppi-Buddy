@@ -2,6 +2,12 @@
 
 A skeleton flutter project made for KuppiBuddy
 
+Features
+- students can request for kuppi sessions
+- admins can review kuppi sessions and aprove them
+- admins can add new kuppi sessions along with any resourses (ex-: lecture slides, notes, youtube links etc..)
+- event calendar with upcoming kuppi session details
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
