@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class Sidebar extends StatelessWidget {
-  const Sidebar({super.key});
+class DrawerMenu extends StatelessWidget {
+  const DrawerMenu({super.key});
 
   @override
   Widget build(BuildContext context) {

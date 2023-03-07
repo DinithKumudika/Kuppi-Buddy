@@ -28,6 +28,7 @@ class RoundButton extends StatelessWidget {
                 backgroundColor:
                     MaterialStateProperty.all(backgroundColor),
               ),
+              onPressed: onPressed,
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
@@ -37,7 +38,6 @@ class RoundButton extends StatelessWidget {
                   ),
                 ],
               ),
-              onPressed: () => onPressed(),
             ),
           ),
         ],
