@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kuppi_buddy/components/floating_button.dart';
+import 'package:kuppi_buddy/widgets/floating_button.dart';
 
 class StudentHomeScreen extends StatelessWidget {
   const StudentHomeScreen({super.key});
